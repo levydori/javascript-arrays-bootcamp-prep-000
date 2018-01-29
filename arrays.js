@@ -17,3 +17,7 @@ function destructivelyAddElementToBeginningOfArray(arr, newElem) {
 function addElementToEndOfArray(arr, newElem) {
   return [...arr, newElem]
 }
+
+function accessElementInArray(arr, indexID) {
+  return arr[indexID]
+}
