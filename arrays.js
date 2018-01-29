@@ -1,4 +1,4 @@
-var chocolateBars = []
+var chocolateBars = ["nickers", "hundred grand", "kitkat", "skittles"]
 
 function destructivelyAddElementToBeginningOfArray(arr, newElem) {
   arr.unshift(newElem)
