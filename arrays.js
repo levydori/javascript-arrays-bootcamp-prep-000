@@ -1,3 +1,5 @@
+var chocolateBars = []
+
 function destructivelyAddElementToBeginningOfArray(arr, newElem) {
   arr.unshift(newElem)
   return arr
